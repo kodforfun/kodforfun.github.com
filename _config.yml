@@ -21,7 +21,7 @@
 title: Kod For Fun
 email: kodforfun@gmail.com
 description: eğlenmek için kod yazıyorum.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kodforfun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  kodforfun
